@@ -5,13 +5,13 @@ DefaultContentLanguage           = "en"                    # Default language fo
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
+    themeStyle                   = "light"                  # Choose "light" or "dark" or "auto"
     favicon                      = "/img/fav.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "kanazawahideyuki@gmail.com"   # E-mail address for contact section
+    email                        = "  "   # E-mail address for contact section
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
@@ -22,7 +22,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         showLatest               = true                    # Show latest blog post summary
         showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
         allPostsArchiveFormat    = true                    # show all posts in an archive format
-        numberOfProjectsToShow   = 3                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
+        numberOfProjectsToShow   = 6                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
         localTime                = true                    # Show your current local time in contact section
         timeZone                 = "Asia/Singapore"   # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         timeFormat               = "en-US"                 # Language specific format to use
@@ -34,6 +34,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
         twitter                  = true
         facebook                 = true
         pinterest                = true
+    
+    [params.contact]
+    enable = true
+    formAction = "https://formspree.io/f/mdoynyla"
 
     # Social icons appear in introduction and contact section. Add as many more as you like.
     # Icon pack "fab" includes social network icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
@@ -79,13 +83,17 @@ DefaultContentLanguage           = "en"                    # Default language fo
     url     = "/#projects"
     weight  = 2
 [[menu.main]]
+    name    = "Experience"
+    url     = "/#experience"
+    weight  = 3
+[[menu.main]]
     name    = "Blog"
     url     = "/#blog"
-    weight  = 3
+    weight  = 4
 [[menu.main]]
     name    = "Contact"
     url     = "/#contact"
-    weight  = 4
+    weight  = 5
 
 
 # We only use tag as a taxonomies
