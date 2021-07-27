@@ -1,6 +1,7 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo serve"
+#command = "hugo --gc --minify"
 #command = "hugo --gc --minify -t ../.. -d ../docs -v -b /"
 
 [context.production.environment]
