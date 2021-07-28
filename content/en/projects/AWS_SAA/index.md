@@ -1,5 +1,5 @@
 ---
-title: "AWS SAA Certified"
+title: "AWS Solutions Architect - Associate"
 weight: 1
 project_timeframe: 2nd July 2020
 ---

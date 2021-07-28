@@ -17,7 +17,7 @@ On his free time, Hideyuki enjoys all kinds of outdoor sports & indoor games wit
 
 #### Technology stack
 
-* **Languages**: Python, Go, Bash
+* **Languages**: Python, Go, Shell script
 * **AaC (Architecture-as-Code)**: Terraform, Ansible, Vagrant
 * **DevOps**: Docker, Jenkins, JIRA
 * **Cloud platform(s)**: AWS

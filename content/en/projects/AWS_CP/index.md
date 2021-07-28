@@ -1,5 +1,5 @@
 ---
-title: "AWS CP Certified"
+title: "AWS Cloud Practitioner"
 weight: 100
 project_timeframe: 6th May 2020
 ---

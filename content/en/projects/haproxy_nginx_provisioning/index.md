@@ -2,7 +2,7 @@
 title: "HAProxy with Nginx provisioning"
 weight: 2
 resources:
-    - src: plant.jpg
+    - src: img/flaskAPI-vagrant-ansible.png
       params:
           weight: -100
 project_timeframe: June-December
@@ -10,7 +10,7 @@ project_timeframe: June-December
 
 <html>
   <body>
-    <h4>Automating two-tier infrastructure provisioning through Ansible & Terraform</h4><br>
+    <h4>Automating two-tier infrastructure provisioning through Ansible & Terraform</h4>
   </body>
 </html>
 
@@ -28,7 +28,8 @@ To deploy the application in a reliable and repeatable fashion, we automate the 
 #### Technology stack
 AWS | Terraform | Ansible | Nginx | HAProxy
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="images/aws.png" width="100">  |  <img src="images/terraform.png" width="100">  | <img src="images/ansible.png" width="100"> | <img src="images/nginx.png" width="100"> | <img src="images/haproxy.png" width="100"> 
+<img src="img/aws.png" width="100">  |  <img src="img/terraform.png" width="100">  | <img src="svg/ansible.svg" width="100"> | <img src="img/nginx.png" width="100"> | <img src="img/haproxy.png" width="100"> 
+
 ---
 
 View the full project <a href="https://github.com/hideyukikanazawa/haproxy-nginx-deployment" target="_blank" rel="noopener noreferrer">here</a>!
