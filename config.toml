@@ -126,7 +126,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Who is Hideyuki?"
+        title            = "Hideyuki Kanazawa | Site Reliability Engineer"
         [languages.en.params]
             description  = "Site reliability engineer with a keen passion in building applications on scalable infrastructure"   # Max 160 characters show in search results
             footerText   = "Hideyuki Kanazawa 2021©️ - Made with Hugo, the world's fastest framework for building sites ✔️ (and love of course)"                      # Text to override default footer text (markdown allowed)
