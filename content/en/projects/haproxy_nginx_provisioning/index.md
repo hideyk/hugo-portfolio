@@ -10,7 +10,7 @@ project_timeframe: June-December
 
 <html>
   <body>
-    <h4>Automating two-tier infrastructure provisioning through Ansible & Terraform</h4>
+    <h4>Automating two-tier infrastructure provisioning through Ansible & Terraform </h4>
   </body>
 </html>
 
