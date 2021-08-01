@@ -21,7 +21,7 @@ Additional features include a `Premium Plan` which gives paying users extra func
 
 The python-based service is hosted on Heroku, with a the database being a managed PostgreSQL service. 
 
-View the telegram bot [here](https://t.me/AutoFinanceBot).
+View the telegram bot [here](https://t.me/AutoFinanceBot)!
 
 ---
 
