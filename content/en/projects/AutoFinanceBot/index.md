@@ -45,4 +45,4 @@ This was an important decisive factor as a finance management bot should remain 
 
 ---
 
-View the full project <a href="https://github.com/hideyukikanazawa/AutoFinanceBot" target="_blank" rel="noopener noreferrer">here</a>!
+View the full project <a href="https://github.com/hideyukikanazawa/AutoFinanceBot" target="_blank" rel="noopener noreferrer">here</a>.
