@@ -14,8 +14,9 @@ One particular book that inspired his desire for implementing automation was *Th
 
 On his free time, Hideyuki enjoys all kinds of outdoor sports & indoor games with friends. Sports that *ideally* keep him active are basketball, badminton and hiking. As for games, *Codenames*, *Betrayal at House on the Hill* and poker rank at the top of his list. <br><br>
 
+---
 
-#### Technology stack
+### Technology stack
 
 * **Languages**: Python, Go, Shell script
 * **AaC (Architecture-as-Code)**: Terraform, Ansible, Vagrant
@@ -25,4 +26,3 @@ On his free time, Hideyuki enjoys all kinds of outdoor sports & indoor games wit
 * **Databases**: Elasticsearch, PostgreSQL, MariaDB
 * **Tools**: Git, Bitbucket, Logstash, Filebeat, Selenium
 * **OS**: Ubuntu & RHEL Linux
-

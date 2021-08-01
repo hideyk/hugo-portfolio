@@ -1,7 +1,7 @@
 ---
 title: "AWS Cloud Practitioner"
-weight: 100
-project_timeframe: 6th May 2020
+weight: 1000
+project_timeframe: May 2020
 ---
 
 <html>

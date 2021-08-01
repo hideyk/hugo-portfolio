@@ -87,10 +87,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
     name    = "Experience"
     url     = "/#experience"
     weight  = 3
-[[menu.main]]
-    name    = "Blog"
-    url     = "/#blog"
-    weight  = 4
+#[[menu.main]]
+#    name    = "Blog"
+#    url     = "/#blog"
+#    weight  = 4
 [[menu.main]]
     name    = "Contact"
     url     = "/#contact"

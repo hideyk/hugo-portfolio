@@ -1,7 +1,7 @@
 ---
 title: "AWS Solutions Architect - Associate"
-weight: 1
-project_timeframe: 2nd July 2020
+weight: 900
+project_timeframe: Jul 2020
 ---
 
 <html>

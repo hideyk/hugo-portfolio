@@ -1,6 +1,6 @@
 ---
 title: "FlaskAPI provisioning with Vagrant & Ansible"
-weight: 2
+weight: 800
 project_timeframe: Feb 2021
 ---
 
@@ -9,6 +9,9 @@ project_timeframe: Feb 2021
     <h4>Provisioning FlaskAPI and PostgreSQL with Vagrant and Ansible</h4>
   </body>
 </html>
+
+<br>
+View the full project <a href="https://github.com/hideyukikanazawa/flask-API-provisioning" target="_blank" rel="noopener noreferrer">here</a>!
 
 ---
 #### Motivation
