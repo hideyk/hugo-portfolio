@@ -8,7 +8,7 @@ weight: 8
 <br>
 Starting his professional career in FDM Group as a DevOps consultant, his initial training taught him essential tools for the DevOps arsenal like Git, Docker, Selenium and Jenkins. <br>
 
-Equipped with this knowledge, he was lucky to join DBS (Development Bank of Singapore) as a junior SRE. There, he contributed to a yearly 30,000 man-hour (equivalent to 15 headcounts) toil reduction on his first year, working on automation initiatives for the Institution Banking and Indonesia divisions. On his second year, he was enlisted as a core member to develop and deploy an in-house product DARE (*DBS Auto-Remediation Engine*) which automatically detects and recovers unhealthy services across the bank. <br>
+Equipped with this knowledge, he was lucky to join DBS bank as a junior SRE. There, he contributed to a yearly 30,000 man-hour (equivalent to 15 headcounts) toil reduction on his first year, working on automation initiatives for the Institutional Banking Group Technology and Indonesia divisions. On his second year, he was enlisted as a core member to develop and deploy an in-house product DARE (*DBS Auto-Remediation Engine*) which automatically detects and recovers unhealthy services across the bank. <br>
 
 One particular book that inspired his desire for implementing automation was *The Phoenix Project*, where Bill Palmer endures against all odds to streamline IT processes and ressurect his company from the ashes. We should seek improvement in all that we do; as Gene puts simply *"Improving daily work is even more important than doing daily work"*.<br>
 
